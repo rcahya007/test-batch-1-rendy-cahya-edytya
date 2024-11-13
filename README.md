@@ -1,13 +1,14 @@
 # FORMULIR FEEDBACK & WEB LANDING PAGE CV
 
-Soal Pertama : Formulir Feedback
-Lokasi ada di root awal halaman : di route /
-contoh : namadomain.com
+Soal Pertama : Formulir Feedback</br>
+Lokasi ada di root awal halaman : di route /</br>
+contoh : namadomain.com</br>
 Live Preview : https://kreasi-ai.opwarnet.my.id
 
-Soal Kedua : Web Landing Page CV
-Lokasi ada di route profile : yaitu /profile
-contoh: namadomain.com/profile
+
+Soal Kedua : Web Landing Page CV</br>
+Lokasi ada di route profile : yaitu /profile</br>
+contoh: namadomain.com/profile</br>
 Live Preview : https://kreasi-ai.opwarnet.my.id/profile
 
 Design :
