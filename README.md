@@ -31,3 +31,15 @@ Detail Aplikasi :
      
 2. Web Landing Page CV
    - Berisi sesuai dengan profile pribadi saya yang ada di CV.
+
+
+Tutorial Clone :
+1. git clone
+2. composer install
+3. npm install
+4. cp .env.example .env (edit: .env)
+5. php artisan key:generate
+6. php artisan migrate:fresh --seed
+7. npm run build
+8. npm run dev
+9. another terminal ( php artisan serve )
