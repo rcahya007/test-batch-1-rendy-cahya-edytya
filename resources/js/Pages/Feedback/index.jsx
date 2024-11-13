@@ -4,8 +4,6 @@ import React, { useState } from 'react';
 import CardFeedback from './Components/CardFeedback';
 
 const Feedback = ({ dataFeedback }) => {
-  console.log(dataFeedback);
-
   const [showModal, setShowModal] = useState(false);
 
   const { data, setData, post, processing, errors, reset } = useForm({
