@@ -3,10 +3,12 @@
 Soal Pertama : Formulir Feedback
 Lokasi ada di root awal halaman : di route /
 contoh : namadomain.com
+Live Preview : https://kreasi-ai.opwarnet.my.id
 
 Soal Kedua : Web Landing Page CV
 Lokasi ada di route profile : yaitu /profile
 contoh: namadomain.com/profile
+Live Preview : https://kreasi-ai.opwarnet.my.id/profile
 
 Design :
 - Figma : https://www.figma.com/design/2Wy1GN5uezlatJ9E6ENcdd/School-Education-Website-UI-Template---Light-Theme-(Neubrutalism)---FREE-Editable-(Community)?node-id=33-6&t=0rQJ4Igfj26la9uu-1
@@ -14,6 +16,7 @@ Design :
 Technologi yang digunakan :
 - Backend : Laravel 11 - (Inertia JS)
 - Frontend : React JS
+- Styling : TailwindCSS - Responsife all Device
 
 Detail Aplikasi : 
 1. Formulir Feedback :
