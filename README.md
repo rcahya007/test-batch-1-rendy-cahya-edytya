@@ -9,7 +9,7 @@ Live Preview : https://kreasi-ai.opwarnet.my.id
 Soal Kedua : Web Landing Page CV</br>
 Lokasi ada di route profile : yaitu /profile</br>
 contoh: namadomain.com/profile</br>
-Live Preview : https://kreasi-ai.opwarnet.my.id/profile
+Live Preview : https://kreasi-ai.opwarnet.my.id/profile </br>
 Sebagai bahan pertimbangan saya melampirkan Web Landing Page CV saya yang sebelumnya : https://opwarnet.my.id
 
 Design :
